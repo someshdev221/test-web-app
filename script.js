@@ -1,8 +1,1 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-
-h1 {
-  color: #0078d4;
-}
+console.log("Welcome to Azure Static Web Apps!");
